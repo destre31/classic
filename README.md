@@ -1,4 +1,28 @@
-# l1j-en
+# l1j-en 8.1c Japan Version Source and Client Translated Files Project Start Date 09-18-2022
+
+This conversion is based on the code from https://gitlab.com/WantedGaming/server3old with some changes from
+
+
+The Files in this branch have not been uploaded yet. It is just a place holder for now.
+So all files are from the Master Branch for now.
+
+TODO list.
+
+1. Finish converting Text and Tile ind and Pak files for the Japan 8.1c Client. As there is no English version past 3.63.
+2. finish Converting the Database from japan to English.
+   a. Armor Table is completed. There are some translation errors like pitch is used instead of helm in some spots.
+      there probally are more. But it is in a useable state.
+   b. Next Table
+   c. Next Table
+3. finish going thru the source code and converting any remaining japan code to english.
+4. Test
+
+
+
+
+
+
+# l1j-en Original README.MD Below
 
 l1j-en is an English-language server emulator for the South Korean MMORPG,
 Lineage 1.  It targets feature-complete support for the final 2009 US client.
